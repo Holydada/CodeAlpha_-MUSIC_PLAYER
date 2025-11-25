@@ -84,7 +84,7 @@ function App() {
 
       {/* Footer */}
       <footer className="footer">
-        <p>© 2025 Music Player | Built with React</p>
+        <p>© 2025 Music Player | Built with React by Developer Dawit Abera</p>
       </footer>
     </div>
   );

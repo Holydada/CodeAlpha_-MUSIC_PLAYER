@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Music Player Project
 
@@ -39,3 +40,6 @@ git branch -M main
 git remote add origin <your-repo-url>
 git push -u origin main
 ```
+=======
+# CodeAlpha_-MUSIC_PLAYER
+>>>>>>> eb911d5f58d509faaa633e9759651e4721dc87d1
